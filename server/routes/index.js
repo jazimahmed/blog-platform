@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const User = require('../models/User');
+const User = require('C:\Users\Administrator\Desktop\blog-platform\server\models\User.js');
 const Post = require('../models/Post');
 const passport = require('passport');
 
